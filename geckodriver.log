@@ -2569,3 +2569,78 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
 
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=69046, line 1: NetworkError: A network error occurred.
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.7aJ5CJHReWWd"
+*** You are running in headless mode.
+1562683808616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562683808616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562683808616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562683809546	Marionette	INFO	Listening on port 50931
+1562683809981	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562673628501%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://message.acfun.cn/im, line 26: TypeError: sess.lastMessage is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.yfkVFF1OPrqf"
+*** You are running in headless mode.
+1562684216666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562684216666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562684216666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562684217632	Marionette	INFO	Listening on port 56053
+1562684218023	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562673628501%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://message.acfun.cn/im, line 26: TypeError: sess.lastMessage is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x36010F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14536, Gecko_IOThread] WARNING: file z:/task_1560988636/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=50782, line 1: NetworkError: A network error occurred.
+[Child 8608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8608, C1562685044662	Marionette	INFO	Stopped listening on port 56053
+1562685051814	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.YfX3WfaRqq3n"
+*** You are running in headless mode.
+1562685052075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562685052075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562685052075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562685053017	Marionette	INFO	Listening on port 56223
+1562685053427	Marionette	WARN	TLS certificate errors will be ignored for this session

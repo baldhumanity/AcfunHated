@@ -91,6 +91,11 @@
             border-top: #3a0b0b solid 4px;
             text-align: center;
         }
+
+        div.dl {
+            background: rgb(171, 255, 123);
+            border-radius: 25px
+        }
     </style>
 </head>
 <body>
@@ -103,13 +108,15 @@
             </div>
             <div id="usercount" class="info-box">
             </div>
-            <div class="info-box">
-                <a style="text-decoration: none" target="_blank" href="install.html">
+            <a style="text-decoration: none; font-weight: bold; " target="_blank" href="install.html">
+                <div class="info-box dl">
+
                     <div style="display: block">
-                        获取AcFun网页端插件<br>只看你喜欢的UP主👉
+                        获取AcFun网页插件<br>只看你喜欢的UP主👉
                     </div>
-                </a>
-            </div>
+
+                </div>
+            </a>
         </div>
 
         <div class="content-inner">
@@ -196,7 +203,7 @@
             .style("font-size", function (d, i) {
                 let s = [40, 38, 36, 30];
                 if (i <= 3) return s[i];
-                return s[3]-Math.log10(i)*3;
+                return s[3] - Math.log10(i) * 3;
             })
             .style("font-family", "Arial")
             .style("font-weight", "500")
@@ -254,7 +261,7 @@
             .style("font-size", function (d, i) {
                 let s = [40, 38, 36, 30];
                 if (i <= 3) return s[i];
-                return s[3]-Math.log10(d.count)*3;
+                return s[3] - Math.log10(d.count) * 3;
             })
 
 
@@ -316,8 +323,8 @@
                 return d.word;
             })
         }, 0);
-		
-		
+
+
         setTimeout(() => {
             v("repliers", data.repliers, function (d) {
                 return d.replier;

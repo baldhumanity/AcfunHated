@@ -2811,3 +2811,11 @@ JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=59930, line 1: Netw
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=25975, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=36400, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=80622, line 1: NetworkError: A network error occurred.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563186751969%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+

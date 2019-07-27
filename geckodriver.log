@@ -3282,3 +3282,11 @@ JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=6583., line 1: Netw
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=42570, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=58100, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=61353, line 1: NetworkError: A network error occurred.
+1564271236520	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.2cPCOpb9nBTT"
+*** You are running in headless mode.
+1564271237659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564271237659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564271237659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564271237659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564271239049	Marionette	INFO	Listening on port 49607
+1564271239260	Marionette	WARN	TLS certificate errors will be ignored for this session

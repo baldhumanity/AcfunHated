@@ -3299,3 +3299,4 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
 
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=97503, line 1: NetworkError: A network error occurred.
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=65417, line 1: NetworkError: A network error occurred.

@@ -3636,7 +3636,8 @@ JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=74621, line 1: Netw
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=62413, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=59902, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=99086, line 1: NetworkError: A network error occurred.
-nette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.Z9t84tspu7gu"
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=43601, line 1: NetworkError: A network error occurred.
+84tspu7gu"
 *** You are running in headless mode.
 1565219159411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1565219159411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry

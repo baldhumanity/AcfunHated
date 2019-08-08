@@ -3640,8 +3640,8 @@ JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=43601, line 1: Netw
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=59716, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=80483, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=11152, line 1: NetworkError: A network error occurred.
-lid extension permission: telemetry
-1565219159412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=91050, line 1: NetworkError: A network error occurred.
+ 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
 1565219159412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1565219160635	Marionette	INFO	Listening on port 59519
 1565219160740	Marionette	WARN	TLS certificate errors will be ignored for this session
@@ -3656,3 +3656,4 @@ console.error: BroadcastService:
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=89426, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=78114, line 1: NetworkError: A network error occurred.
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=82518, line 1: NetworkError: A network error occurred.
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=1073., line 1: NetworkError: A network error occurred.

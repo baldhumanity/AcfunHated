@@ -3855,7 +3855,8 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
 
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=7126., line 1: NetworkError: A network error occurred.
-1566687078491	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.2qsRAD9nUVAq"
+Exiting due to channel error.
+	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.2qsRAD9nUVAq"
 *** You are running in headless mode.
 1566687079413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1566687079413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
@@ -3914,3 +3915,20 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
 
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=60686, line 1: NetworkError: A network error occurred.
+Exiting due to channel error.
+1566911021770	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.zSwlXiBkPTaa"
+*** You are running in headless mode.
+1566911022068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566911022068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566911022068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566911022068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566911023271	Marionette	INFO	Listening on port 50790
+1566911023383	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566864005222%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+

@@ -4033,3 +4033,12 @@ JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=29995, line 1: Netw
 1567079754726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1567079755918	Marionette	INFO	Listening on port 50256
 1567079756379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=11523, line 1: NetworkError: A network error occurred.

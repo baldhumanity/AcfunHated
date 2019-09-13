@@ -4409,3 +4409,5 @@ Exiting due to channel error.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1568378297851	Marionette	INFO	Listening on port 53660
 1568378298187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1568378311290, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1568378311290, line 1: TypeError: r is undefined

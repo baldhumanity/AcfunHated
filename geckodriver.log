@@ -4536,3 +4536,4 @@ JavaScript error: https://cdn.aixifan.com/acfun-pc/2.8.25/js/page/login.min.js, 
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1569182552477	Marionette	INFO	Listening on port 61004
 1569182552513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=23496, line 1: NetworkError: A network error occurred.

@@ -9000,7 +9000,8 @@ JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, 
 JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: r is undefined
 JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=69742, line 1: NetworkError: A network error occurred.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1570570113070	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.fFwu31ONrzUk"
+JavaScript error: , line 0: uncaught exception: Object
+:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Devid\\AppData\\Local\\Temp\\rust_mozprofile.fFwu31ONrzUk"
 *** You are running in headless mode.
 1570570113394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
 1570570113394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry

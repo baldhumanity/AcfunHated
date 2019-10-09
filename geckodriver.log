@@ -9010,3 +9010,6 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1570570114867	Marionette	INFO	Listening on port 49801
 1570570115196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: r is undefined
+JavaScript error: https://cdn.aixifan.com/acsdk/log.min.js?v=87210, line 1: NetworkError: A network error occurred.
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: this.sessionMessageMap[n] is undefined

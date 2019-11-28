@@ -14312,11 +14312,37 @@ JavaScript error: , line 0: uncaught exception: null
 JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
 JavaScript error: , line 0: uncaught exception: null
 JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
-tension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1574949298491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1574949298491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1574949298491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1574949300197	Marionette	INFO	Listening on port 49380
-1574949300564	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: this.sessionMessageMap[n] is undefined
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDJavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.25c41f.js?_=1574949314358, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: r is undefined
+JavaScript error: https://message.acfun.cn/im, line 26: TypeError: sess.lastMessage is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: r is undefined
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.0ed338.js, line 1: TypeError: r is undefined
+t exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed because the requested database object could not be found. For example, an object store did not exist but was being opened.

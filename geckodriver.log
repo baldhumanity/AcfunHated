@@ -20582,3 +20582,4 @@ JavaScript error: resource://services-common/kinto-offline-client.js, line 603: 
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1576194380108	Marionette	INFO	Listening on port 54891
 1576194380467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.yximgs.com/udata/pkg/acfun-im/ImSdk.54424b.js, line 40: TypeError: this.sessionMessageMap[n] is undefined
